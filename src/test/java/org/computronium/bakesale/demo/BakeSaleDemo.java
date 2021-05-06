@@ -1,3 +1,5 @@
+package org.computronium.bakesale.demo;
+
 import org.computronium.bakesale.barchart.BarChartModel;
 import org.computronium.bakesale.barchart.BarChartPanel;
 import org.computronium.bakesale.graph.GraphModel;

@@ -1,6 +1,6 @@
 A stripped-down Java library for rendering pie charts, bar charts, and function graphs in Java Swing panels.
 
-The demo/BakeSaleDemo.java class contains a simple example of how to use them.
+The test/org.computronium.bakesale.demo.BakeSaleDemo.java class contains a simple example of how to use them.
 
 ![pie chart](doc/piechart.jpeg)
 ![bar chart](doc/barchart.jpeg)
